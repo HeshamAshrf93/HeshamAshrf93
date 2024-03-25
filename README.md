@@ -13,20 +13,22 @@
 
 - 📫 How to reach me **heshamashrf28@gmail.com**
 
+- - 📄 Know about my experiences (www.linkedin.com/in/hesham-ashrf-710312204)
+
 - ⚡ Fun fact **Learn something about everything , so I'm passionate about learning new things**
 
 
 
- ###AI/Machine learning  :
+ ### AI/Machine learning  :
 Modeling with python using JupyterLab Algorithms
 
 ______________________________________________
 
-###Database :
+### Database :
 SQL
 ______________________________________________
 
-###Tools using in data visualization :
+### Tools using in data visualization :
 Power bi , Excel
 ______________________________________________
 
