@@ -14,20 +14,28 @@
 - 📫 How to reach me **heshamashrf28@gmail.com**
 
 - ⚡ Fun fact **Learn something about everything , so I'm passionate about learning new things**
-              
+
+
+
+ ###AI/Machine learning  :
+Modeling with python using JupyterLab Algorithms
+
+______________________________________________
+
+###Database :
+SQL
+______________________________________________
+
+###Tools using in data visualization :
+Power bi , Excel
+______________________________________________
+
+             
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hesham-ashrf-710312204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-khaled-0608a9236" height="30" width="40" /></a>
 </p>
 
-AI/ML :
-Modeling with python using JupyterLab Algorithms
-
-Database :
-SQL
-
-Tools using in data visualization :
-Power bi , Excel
 
 
 <h3 align="left">Languages and Tools:</h3>
