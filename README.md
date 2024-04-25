@@ -7,7 +7,7 @@
 
 - 📋 Check out My Resume at [**Resume**](https://drive.google.com/file/d/1ZSY5W3goYx3pP6JSUZC8RVvHrhbD9rez/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [**My Portfolio**](https://personal-portfolio-288e7.firebaseapp.com/)
+- 👨‍💻 All of my projects are available at [**My Portfolio**](file:///D:/personal%20web%20site/index.html)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Science, Data Analytics**
 
