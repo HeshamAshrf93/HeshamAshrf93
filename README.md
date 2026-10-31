@@ -7,7 +7,7 @@
 
 I build AI agents and automations that solve real business problems. I start every build like a Product Manager: understand the user's pain, define the outcome, then ship something that works in production, not just in a notebook.
 
-- 🤖 Focus: RAG on private data, AI agents with tool calling, LLM-powered workflows (Claude, Gemini, OpenAI), n8n automation
+- 🤖 Focus: RAG on private data, AI agents with tool calling, LLM-powered workflows, n8n automation
 - 🧭 Background: Business Analysis (BRD, SRS, process mapping), so I know what is worth automating
 - 🔭 Currently building open-source AI agent projects, all published here
 - 📫 Reach me at **heshamashrf28@gmail.com**
@@ -25,7 +25,7 @@ I build AI agents and automations that solve real business problems. I start eve
 
 ## Skills
 
-**AI & LLMs:** RAG (chunking, embeddings, retrieval thresholds), AI agents & tool calling, structured output, prompt engineering, guardrails against prompt injection, LangChain, Claude / Gemini / OpenAI APIs
+**AI & LLMs:** RAG (chunking, embeddings, retrieval thresholds), AI agents & tool calling, structured output, prompt engineering, guardrails against prompt injection, LangChain, LLM APIs
 
 **Automation:** n8n, WhatsApp automation, webhooks, REST API integrations
 
