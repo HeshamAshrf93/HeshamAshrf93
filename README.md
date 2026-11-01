@@ -18,7 +18,7 @@ I build AI agents and automations that solve real business problems. I start eve
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🩺 [**Clinic Booking Agent**](https://github.com/HeshamAshrf93/clinic-booking-agent) | WhatsApp AI agent that books, lists and cancels clinic appointments with tool calling; booking rules enforced in code, 22 tests | Python, FastAPI, Gemini function calling, SQLite |
+| 🩺 [**Clinic Booking Agent**](https://github.com/HeshamAshrf93/clinic-booking-agent) | WhatsApp AI agent that books, lists and cancels clinic appointments with tool calling; booking rules enforced in code, 28 tests | Python, FastAPI, Gemini + Groq function calling, SQLite |
 | 🎓 [**Barmagti AI**](https://github.com/HeshamAshrf93/barmagti-ai) | RAG study assistant that answers only from the official curriculum (with citations) + AI homework grader with structured output, for a live e-learning platform | LangChain.js, Gemini embeddings, Cloudflare Workers, Zod |
 | 📝 [**PhysioFlow**](https://github.com/HeshamAshrf93/physioflow) | Generates physiotherapy session reports with an LLM and emails them to the referring doctor automatically | Claude API, Firebase Cloud Functions, Firestore |
 | 📡 [**TeleLine CRM**](https://github.com/HeshamAshrf93/Telecom-CRM-System-with-Intelligent-Automation--TeleLine) | Telecom CRM: requirements (BRD/SRS) plus workflow automation | Business Analysis, n8n |
